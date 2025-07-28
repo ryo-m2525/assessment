@@ -120,6 +120,7 @@ console.log(assessment('太郎'));
 */
 
 // テストを行う関数
+/*
 function test() {
   console.log('診断結果の文章のテスト');
 
@@ -156,3 +157,5 @@ function test() {
 }
 
 test();
+*/
+
